@@ -1,6 +1,7 @@
 ## Hi, I'm Dante :wave:
 
-I am a genomics sciences undergraduate at the National Autonomous University of Mexico. I have experience developing machine and deep learning models for natural language processing, directed protein evolution and precision medicine. My interests are primarily behavioral neuroscience, computational linguistics, development and making science more accessible.
+I'm a genomics sciences undergraduate at the National Autonomous University of Mexico. I have experience developing machine and deep learning models for natural language processing, directed protein evolution and precision medicine. My interests are primarily behavioral neuroscience, computational linguistics, development and making science more accessible.
+
 
 Life
 ----
@@ -14,6 +15,7 @@ Life
 [ccg]: https://www.ccg.unam.mx/en/computational-genomics/
 [sl]: https://www.sohaillab.com
 [ibt]: https://www.ibt.unam.mx/agrupacion/direccion-22/departamento-de-ingenieria-celular-y-biocatalisis-48/grupo-del-dr-lorenzo-segovia-12
+
 
 Core Skills
 ------
