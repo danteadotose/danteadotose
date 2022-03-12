@@ -23,3 +23,11 @@ Core Skills
 :notebook:     **Theoretical Background** (Molecular and Cellular Biology, Evolution, Biochemistry, Statistics, Immunology, Phylogenomics)  
 :crystal_ball:             **Genome Assembly and Sequence Analysis** (Trim Galore, SPAdes, Canu, Quast, BLAST, Clustal, MAFFT, T-Cofee, MEGA)  
 
+
+🔗 Connect with me
+------
+<p align="left">
+ <a href="https://twitter.com/oussth3boss/" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white&color=071A2C" alt="Twitter">
+<a href="mailto:oussamabouchikhi700@gmail.com" mailto="oussamabouchikhi700@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C" alt="Gmail">
