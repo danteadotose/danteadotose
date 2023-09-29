@@ -7,7 +7,7 @@ Life
 ----
 
 :school_satchel: [**Genomic Sciences program**][lcg] Graduate   
-:medical_symbol: [**QIMR Berghofer Medical Research Institute**][qimr] Intern, Influence of Gene-Enviroment Interactions on Mental Health  
+:medical_symbol: [**QIMR Berghofer Medical Research Institute**][qimr] Intern, Gene-Enviroment Interactions on Mental Health  
 :microscope: [**Sohail Lab**][sl] Intern, Population's Genomics, Complex Variation Disease   
 :books: [**Center for Genomic Sciences**][ccg] Intern, Natural Language Processing of Biomedical Literature  
     
