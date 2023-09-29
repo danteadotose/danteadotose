@@ -1,28 +1,28 @@
 ## Hi, I'm Dante :wave:
 
-I'm a genomics sciences undergraduate at the National Autonomous University of Mexico. I have experience developing machine learning models for natural language processing, directed protein evolution and precision medicine. My interests are primarily behavioral neuroscience, computational linguistics, development and making science more accessible.
+I'm a Genomic Sciences graduate interested in gene-environment interactions, behavioral neuroscience, psychiatric disorders, public health policies, and machine learning. My experience includes building AI-driven models for biomedical research, conducting population analyses, handling different types of data, from their raw form to insightful visualizations, and writing academic reports. I have good teamwork skills and I'm a self-thought person, always willing to learn new things.
 
 
 Life
 ----
 
-:school_satchel: [**Genomic Sciences program**][lcg] 6th Semester Undergraduate     
-:books: [**Center for Genomic Sciences**][ccg] Intern, Biomedical Natural Language Processing      
-:microscope: [**Sohail Lab**][sl] Intern,  Precision Medicine   
-:bar_chart: [**Biotechnology Institute**][ibt] Intern, Protein Modeling    
+:school_satchel: [**Genomic Sciences program**][lcg] Graduate
+:medical_symbol: [**QIMR Berghofer Medical Research Institute**][qimr] Intern, Influence of Gene-Enviroment Interactions on Mental Health
+:books: [**Center for Genomic Sciences**][ccg] Intern, Natural Language Processing of Biomedical Literature      
+:microscope: [**Sohail Lab**][sl] Intern, Population's Genomics, Complex Variation Disease    
 
 [lcg]:  https://www.lcg.unam.mx
 [ccg]: https://www.ccg.unam.mx/en/computational-genomics/
 [sl]: https://www.sohaillab.com
-[ibt]: https://www.ibt.unam.mx/agrupacion/direccion-22/departamento-de-ingenieria-celular-y-biocatalisis-48/grupo-del-dr-lorenzo-segovia-12
+[qimr]: https://www.qimrberghofer.edu.au/our-research/mental-health-and-neuroscience/psychiatric-genetics/
 
 
 Core Skills
 ------
 
-:computer:         **Machine Learning** (Tensorflow, Scikit-learn, PyTorch)  
-:notebook:     **Theoretical Background** (Molecular and Cellular Biology, Evolution, Biochemistry, Statistics, Immunology, Phylogenomics)  
-:crystal_ball:             **Genome Assembly and Sequence Analysis** (Trim Galore, SPAdes, Canu, Quast, BLAST, Clustal, MAFFT, T-Cofee, MEGA)  
+:computer:         **Programming** (Python, R, Bash)  
+:notebook:     **Theoretical Background** (Genomics, Machine Learning, Bioinformatics, Mental Health, Statistics, Molecular and Cellular Biology, Evolution, Immunology, Phylogenomics)  
+:crystal_ball:             **Machine Learning** (Tensorflow, Scikit-Learn, Tensorboard, Keras)  
 
 
 🔗 Connect with me
