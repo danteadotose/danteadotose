@@ -6,23 +6,24 @@ I'm a Genomic Sciences graduate interested in gene-environment interactions, beh
 Life
 ----
 
-:school_satchel: [**Genomic Sciences program**][lcg] Graduate
-:medical_symbol: [**QIMR Berghofer Medical Research Institute**][qimr] Intern, Influence of Gene-Enviroment Interactions on Mental Health
-:books: [**Center for Genomic Sciences**][ccg] Intern, Natural Language Processing of Biomedical Literature      
-:microscope: [**Sohail Lab**][sl] Intern, Population's Genomics, Complex Variation Disease    
+:school_satchel: [**Genomic Sciences program**][lcg] Graduate   
+:medical_symbol: [**QIMR Berghofer Medical Research Institute**][qimr] Intern, Influence of Gene-Enviroment Interactions on Mental Health  
+:microscope: [**Sohail Lab**][sl] Intern, Population's Genomics, Complex Variation Disease   
+:books: [**Center for Genomic Sciences**][ccg] Intern, Natural Language Processing of Biomedical Literature  
+    
 
-[lcg]:  https://www.lcg.unam.mx
+[lcg]:  https://www.lcg.unam.mx  
+[qimr]: https://www.qimrberghofer.edu.au/our-research/mental-health-and-neuroscience/psychiatric-genetics/  
+[sl]: https://www.sohaillab.com  
 [ccg]: https://www.ccg.unam.mx/en/computational-genomics/
-[sl]: https://www.sohaillab.com
-[qimr]: https://www.qimrberghofer.edu.au/our-research/mental-health-and-neuroscience/psychiatric-genetics/
 
 
 Core Skills
 ------
 
 :computer:         **Programming** (Python, R, Bash)  
-:notebook:     **Theoretical Background** (Genomics, Machine Learning, Bioinformatics, Mental Health, Statistics, Molecular and Cellular Biology, Evolution, Immunology, Phylogenomics)  
-:crystal_ball:             **Machine Learning** (Tensorflow, Scikit-Learn, Tensorboard, Keras)  
+:notebook:     **Theoretical Background** (Genomics, Machine Learning, Bioinformatics, Mental Health, Statistics, Molecular and Cellular Biology, Data Science, Evolution, Immunology, Phylogenomics)  
+:crystal_ball:             **Languages** (Spanish, English (C1), German (A2))  
 
 
 🔗 Connect with me
